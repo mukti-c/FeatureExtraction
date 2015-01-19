@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/muktichowkwale/Documents/Codes/Android/TCPDUMP/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/muktichowkwale/Documents/Codes/Android/TCPDUMP/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TCPDUMP</string>
+    <string name="application_protocol">Application Protocol:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="layer_3">Network layer</string>
+    <string name="layer_4">Transport layer</string>
+    <string name="layer_5">Application Layer:</string>
+    <string name="network_dst">IP Dest. Address:</string>
+    <string name="network_protocol">Network Protocol:</string>
+    <string name="network_src">IP Source Address:</string>
+    <string name="notificationText">Network traffic is being collected!</string>
+    <string name="notificationTitle">Tcpdump is running</string>
+    <string name="packet_number">Packet number:</string>
+    <string name="packets_captured">Packets Captured</string>
+    <string name="read_file">Read File</string>
+    <string name="startService">Start Service</string>
+    <string name="stopService">Stop Service</string>
+    <string name="transport_dst">Dest. Port:</string>
+    <string name="transport_protocol">Transport Protocol:</string>
+    <string name="transport_src">Source Port:</string>
+    <string name="unknown">Unknown</string>
+    <!-- From: file:/Users/muktichowkwale/Documents/Codes/Android/TCPDUMP/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

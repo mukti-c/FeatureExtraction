@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Eclipse/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/muktichowkwale/Documents/Codes/Android/TCPDUMP/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-e6033c38703455443e4ead1e57455074d46b6d01.jar" />
+    </item>
+    <item
+        jar="/Users/muktichowkwale/Documents/Codes/Android/TCPDUMP/app/src/external_libs/opencsv-3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="100f1f66bcade989c73eabd3d56ac39df47317df">
+        <dex dex="/Users/muktichowkwale/Documents/Codes/Android/TCPDUMP/app/build/intermediates/pre-dexed/debug/opencsv-3.1-67604e1fbe5ccb6f1b532cfbd04bbf49b5239a3e.jar" />
+    </item>
+
+</items>
